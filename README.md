@@ -8,7 +8,7 @@
 -  {REGRAS NEGATIVAS} 
 	- > Não use letras do PHP para formas novas palavras
 
-## Roteiro
+### Roteiro:
 - Agora vamos criar um roteiro para esse podcast, na qual o título é PHPcast: Poder, Praticidade e Perspectivas Futuras. 
 - O formato do roteiro deve ser:
 	- [INTRODUÇÃO] 
